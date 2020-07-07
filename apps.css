@@ -1,0 +1,107 @@
+
+body {
+	padding: 0px;
+	margin: 0px;
+	height: 2046px;
+	background-image: url(back200.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+a {
+	border-radius: 10px;
+	padding: 15px;
+	background-color: rgba(210,190,20,0.05);
+	font-size: 20px;
+	text-decoration: none;
+	color: rgba(50,0,50,1);
+}
+#appsBtn {
+	border-radius: 10px;
+	padding: 15px;
+	background-color: rgba(150,100,220,0.3);
+	font-size: 20px;
+	text-decoration: none;
+	color: rgba(50,0,50,1);
+	
+	position: absolute;
+	left: 45%;
+	top: 20%;
+	border-radius: 10px 10px 0px 0px;
+}
+#mymusicBtn {
+	position: absolute;
+	left: 40%;
+	top: 40%;
+}
+#wemusicBtn {
+	position: absolute;
+	left: 60%;
+	top: 40%;
+}
+#d2Btn {
+	position: absolute;
+	left: 30%;
+	top: 60%;
+}
+
+#blogBtn {
+	position: absolute;
+	left: 25%;
+	top: 80%;
+}
+#d3Btn {
+	position: absolute;
+	left: 80%;
+	top: 90%;
+}
+
+
+div {
+	border-radius: 10px;
+	background-color: rgba(150,100,220,0.3);
+	position: absolute;
+	left: 20%;
+	top: 28.05%;
+	text-align: right;
+	padding-top: 1.5%;
+	font-size: 20px;
+	color: rgba(50,0,50,1);
+	user-Select: none;
+}
+#p5seHead {
+	position: absolute;
+	left: 10%;
+	top: 5%;
+	font-size: 19px;
+}
+#p5seLinks {
+	border-radius: 10px 0px 0px 10px;
+	position: absolute;
+	left: 2%;
+	top: 7%;
+	font-size: 17px;
+	background-color: rgba(10,150,10,0.3);/*10,150,150*/
+	padding-left: 3px;
+	padding-right: 2px;
+}
+#p5seText {
+	border-radius: 0px 10px 10px 0px;
+	position: absolute;
+	left: 5%;
+	top: 7%;
+	font-size: 17px;
+	background-color: rgba(10,10,150,0.3);
+	padding-left: 3px;
+	padding-right: 2px;
+	padding: 15px;
+	user-Select: none;
+}
+#seInfo {
+	position: absolute;
+	background-color: rgba(20,30,10,0.9);
+	padding: 2px;
+	color: rgba(250,110,250,1);
+	font-size: 17px;
+	text-shadow: 1px 1px rgba(220,200,100,0.5);
+}

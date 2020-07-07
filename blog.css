@@ -1,0 +1,71 @@
+
+body {
+	padding: 0px;
+	margin: 0px;
+	height: 2046px;
+	background-image: url(back200.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+a {
+	border-radius: 10px;
+	padding: 15px;
+	background-color: rgba(150,100,220,0.3);
+	font-size: 20px;
+	text-decoration: none;
+	color: rgba(50,0,50,1);
+}
+
+#wemusicBtn {
+	padding: 15px;
+	background-color: rgba(150,150,220,0.3);
+	font-size: 20px;
+	text-decoration: none;
+	color: rgba(50,0,50,1);
+	
+	position: absolute;
+	left: 45%;
+	top: 20%;
+	border-radius: 10px 10px 0px 0px;
+}
+#mymusicBtn {
+	position: absolute;
+	left: 40%;
+	top: 40%;
+}
+#d2Btn {
+	position: absolute;
+	left: 30%;
+	top: 60%;
+}
+#appsBtn {
+	position: absolute;
+	left: 75%;
+	top: 70%;
+}
+#blogBtn {
+	padding: 15px;
+	background-color: rgba(150,150,220,0.3);
+	font-size: 20px;
+	text-decoration: none;
+	color: rgba(50,0,50,1);
+	
+	position: absolute;
+	left: 45%;
+	top: 20%;
+	border-radius: 10px 10px 0px 0px;
+}
+#d3Btn {
+	position: absolute;
+	left: 80%;
+	top: 90%;
+}
+div {
+	border-radius: 10px;
+	background-color: rgba(150,150,220,0.3);
+	position: absolute;
+	left: 20%;
+	top: 28%;
+}
+

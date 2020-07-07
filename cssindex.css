@@ -1,0 +1,68 @@
+
+body {
+	padding: 0px;
+	margin: 0px;
+	height: 2046px;
+	background-image: url(back200.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+a {
+	border-radius: 10px;
+	padding: 15px;
+	background-color: rgba(150,100,220,0.3);
+	font-size: 20px;
+	text-decoration: none;
+	color: rgba(50,0,50,1);
+}
+
+#mymusicBtn {
+	position: absolute;
+	left: 40%;
+	top: 40%;
+}
+#wemusicBtn {
+	position: absolute;
+	left: 60%;
+	top: 40%;
+}
+#d2Btn {
+	position: absolute;
+	left: 30%;
+	top: 60%;
+}
+#appsBtn {
+	position: absolute;
+	left: 75%;
+	top: 70%;
+}
+#blogBtn {
+	position: absolute;
+	left: 25%;
+	top: 80%;
+}
+#d3Btn {
+	position: absolute;
+	left: 80%;
+	top: 90%;
+}
+#tutorialsBtn {
+	position: absolute;
+	left: 20%;
+	top: 95%;
+}
+
+div {
+	border-radius: 10px;
+	background-color: rgba(200,200,100,0);
+	position: absolute;
+	left: 42%;
+	top: 50%;
+	font-size: 20px;
+	text-align: center;
+	text-shadow: 2px 1px yellow;
+	color: rgba(200,10,200,0.9);
+	padding-top: 20px;
+}
+

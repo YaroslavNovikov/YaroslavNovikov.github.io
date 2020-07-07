@@ -1,0 +1,51 @@
+
+body {
+	padding: 0px;
+	margin: 0px;
+	height: 2046px;
+	background-image: url(back200.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+a {
+	border-radius: 10px;
+	padding: 15px;
+	background-color: rgba(150,100,220,0.1);
+	font-size: 20px;
+	text-decoration: none;
+	color: rgba(50,0,50,1);
+}
+
+#mymusicBtn {
+	padding: 15px;
+	background-color: rgba(100,100,220,0.3);
+	font-size: 20px;
+	text-decoration: none;
+	color: rgba(50,0,50,1);
+	
+	position: absolute;
+	left: 45%;
+	top: 20%;
+	border-radius: 10px 10px 0px 0px;
+}
+
+div {
+	border-radius: 10px;
+	background-color: rgba(100,100,220,0.3);
+	position: absolute;
+	left: 20%;
+	top: 28.05%;
+	font-size: 30px;
+	text-align: center;
+}
+
+video {
+	outline-width: 0px;
+}
+
+video: active {
+	outline-width: 0px;
+}
+
+
